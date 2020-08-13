@@ -96,6 +96,7 @@ public class BillService {
         }
         {
             LOGGER.info("chargeId is null");
+
             return null;
         }
     }
